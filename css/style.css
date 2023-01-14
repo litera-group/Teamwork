@@ -194,6 +194,7 @@ body{
   background-color: #333333;
   margin: 0 auto;
   height: 318px;
+  padding-top: 130px;
 }
 
 .left-part{
@@ -212,6 +213,7 @@ body{
   font-size: 56px;
   line-height: 64px;
   color: #fff;
+  margin-top: -150px;
 }
 
 .form_email_10 input {
