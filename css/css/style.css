@@ -186,6 +186,75 @@ body{
 /*/2*/
 
 /*3*/
+.our-team{
+  width: 1440px;
+  height: 768px;
+  margin: 0 auto;
+}
+
+.our-team .title{
+  font-size: 56px;
+  line-height: 64px;
+  font-weight: 700;
+  margin-top: 73px;
+  text-align: center;
+}
+
+.our-team .main{
+  display: flex;
+  justify-content: space-between;
+  margin: 55px 135px 0 135px;
+}
+
+.our-team .main .block{
+  width: 270px;
+  height: 480px;
+  text-align: center;
+  text-decoration: none;
+  color: #000;
+}
+
+
+.our-team .main .block img{
+  width: 270px;
+  height: 270px;
+  overflow: hidden;
+}
+
+.our-team .main .block h4{
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 700;
+  margin-top: 26px;
+  
+
+}
+
+.our-team .main .block span{
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+  margin-top: 8px;
+}
+
+.our-team .main .block p{
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  margin-top: 8px;
+}
+
+.our-team .main .block .logos{
+  display: flex;
+  justify-content: space-between;
+  margin: 8px 55px 0 55px;
+}
+
+
+.our-team .main .block .logos img{
+  width: 48px;
+  height: 48px;
+}
 /*/3*/
 
 /*4*/
